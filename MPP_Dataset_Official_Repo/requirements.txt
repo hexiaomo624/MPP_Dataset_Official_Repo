@@ -1,0 +1,14 @@
+# Target runtime: Python 3.13.9 (64-bit)
+numpy>=2.0
+pandas>=2.2
+SimpleITK>=2.5
+pydicom>=3.0
+Pillow>=10.0
+opencv-python>=4.10
+matplotlib>=3.9
+seaborn>=0.13
+scikit-learn>=1.6
+torch>=2.6
+torchvision>=0.21
+timm>=1.0
+safetensors>=0.5
